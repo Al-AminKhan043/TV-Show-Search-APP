@@ -1,7 +1,7 @@
 # TV Show Search App
 
 A simple web application that allows users to search for TV shows and display their images using the [TVMaze API](https://www.tvmaze.com/api). The app leverages **Axios** for making API requests and dynamically displays show images based on search queries.
-[visit](https://al-aminkhan043.github.io/TV-Show-Search-APP/)
+[visit Us](https://al-aminkhan043.github.io/TV-Show-Search-APP/)
 
 ## Features
 
